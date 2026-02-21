@@ -2,6 +2,12 @@
 
 💼 Healthcare Data Analyst with 5+ years of experience transforming healthcare data into actionable insights.
 
+## 👩‍💻 About Me
+I am a results-driven Healthcare Data Analyst specializing in turning complex clinical and claims data into actionable business insights.  
+My experience spans end-to-end analytics, including ETL development, data validation, dashboarding, and predictive modeling.  
+I enjoy solving real-world healthcare problems using SQL, Python, and modern BI tools.  
+Currently focused on building scalable, data-driven solutions that improve quality of care and operational efficiency.
+
 ## 🔧 Skills
 - SQL (Advanced)
 - Python (Pandas, NumPy, Scikit-learn)
