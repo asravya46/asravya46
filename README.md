@@ -13,14 +13,56 @@ My experience spans end-to-end analytics, including ETL development, data valida
 I enjoy solving real-world healthcare problems using SQL, Python, and modern BI tools.  
 Currently focused on building scalable, data-driven solutions that improve quality of care and operational efficiency.
 
-## 🔧 Skills
-- SQL (Advanced)
+## 🛠️ Technical Skills
+
+### 📊 Programming & Data Analysis
+- SQL (Advanced: Joins, CTEs, Window Functions, Query Optimization)
 - Python (Pandas, NumPy, Scikit-learn)
-- Power BI & Tableau
-- Excel (Advanced)
-- Machine Learning
-- AWS & Azure
-- ETL Pipelines
+- Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Automation)
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+
+### 🤖 Machine Learning & Statistics
+- Machine Learning (Random Forest, XGBoost, Regression)
+- Predictive Modeling
+- Feature Engineering
+- Model Evaluation & Validation
+- Hypothesis Testing
+- ANOVA
+
+### 📈 Data Visualization & BI Tools
+- Power BI (DAX, Data Modeling, Interactive Dashboards)
+- Tableau
+- KPI & Executive Dashboard Development
+- Data Storytelling
+
+### ⚙️ Data Engineering & ETL
+- ETL Pipeline Development
+- Workflow Automation
+- Data Validation & Quality Checks
+- Apache Airflow (concepts)
+- Data Integration
+
+### 🏥 Healthcare & Clinical Analytics
+- Healthcare Claims Analysis
+- Value-Based Care Analytics
+- Clinical Trial Data Analysis
+- Readmission Risk Modeling
+- Provider Performance Analytics
+- HIPAA-aware Data Handling
+- Healthcare Operations Analytics
+
+### ☁️ Cloud & Platforms
+- AWS (S3, EC2 – working knowledge)
+- Microsoft Azure (Data Services)
+- Cloud-based Analytics
+
+### 🔧 Tools & Technologies
+- Git & GitHub
+- PyCharm
+- Jupyter Notebook
+- Power Query
+- Microsoft Office Suite
 
 ## 📊 Featured Projects
 
@@ -38,5 +80,12 @@ Currently focused on building scalable, data-driven solutions that improve quali
 - Automated reporting processes
 - Built predictive models using Random Forest & XGBoost
 - Delivered executive dashboards
+  
+  ## 🎯 Current Focus
+- Building scalable healthcare analytics and ETL pipelines  
+- Enhancing predictive models for readmission and risk stratification  
+- Advanced SQL performance tuning and data optimization  
+- Developing interactive Power BI dashboards for healthcare KPIs  
+- Expanding cloud-based analytics using AWS and Azure  
 ---
 ⭐ Always learning and building data-driven healthcare solutions
