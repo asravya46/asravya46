@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sravya Amrutha 👋
 
-<!--
-**asravya46/asravya46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Healthcare Data Analyst with 5+ years of experience transforming healthcare data into actionable insights.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL (Advanced)
+- Python (Pandas, NumPy, Scikit-learn)
+- Power BI & Tableau
+- Excel (Advanced)
+- Machine Learning
+- AWS & Azure
+- ETL Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+### 🏥 Value-Based Care Analytics Platform
+- Built ETL pipelines to process healthcare claims data
+- Developed Power BI dashboards for care quality metrics
+- Implemented predictive models for readmission risk
+
+### 🔬 Clinical Trial Data Analysis
+- Performed data validation and cleaning using SQL
+- Built KPI dashboards for trial performance
+- Improved data quality workflows
+
+### ⚙️ Healthcare Operations Analytics
+- Automated reporting processes
+- Built predictive models using Random Forest & XGBoost
+- Delivered executive dashboards
+
+## 📫 Connect With Me
+- LinkedIn: (add your link)
+- Email: (your professional email)
+
+---
+⭐ Always learning and building data-driven healthcare solutions
