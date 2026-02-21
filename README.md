@@ -29,8 +29,8 @@
 - Delivered executive dashboards
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link)
-- Email: (your professional email)
+- LinkedIn: https://www.linkedin.com/in/sravya-039b742b8/
+- Email: asravya46@gmail.com
 
 ---
 ⭐ Always learning and building data-driven healthcare solutions
