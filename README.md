@@ -1,6 +1,10 @@
 # Hi, I'm Sravya Amrutha 👋
 
-💼 Healthcare Data Analyst with 5+ years of experience transforming healthcare data into actionable insights.
+💼 Healthcare Data Analyst | SQL | Python | Power BI | Data Analytics | Machine Learning
+📧 **Email:** asravya46@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/sravya-039b742b8/  
+📍 **Location:** Indianapolis, IN  
+🚚 **Open to Relocation:** Yes — Nationwide (U.S.)
 
 ## 👩‍💻 About Me
 I am a results-driven Healthcare Data Analyst specializing in turning complex clinical and claims data into actionable business insights.  
@@ -33,10 +37,5 @@ Currently focused on building scalable, data-driven solutions that improve quali
 - Automated reporting processes
 - Built predictive models using Random Forest & XGBoost
 - Delivered executive dashboards
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sravya-039b742b8/
-- Email: asravya46@gmail.com
-
 ---
 ⭐ Always learning and building data-driven healthcare solutions
